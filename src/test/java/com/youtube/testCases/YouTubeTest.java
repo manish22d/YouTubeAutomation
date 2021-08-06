@@ -43,7 +43,11 @@ public class YouTubeTest extends TestBase {
 		homepage.youtubeApp();
 		Thread.sleep(5000);
 		List<String> expectedDropdownOptions = Arrays.asList("YouTube TV", "YouTube Music", "YouTube Kids",
-				"Creator Academy", " YouTube for Artists");
+				"Creator Academy", "YouTube for Artists");
+		
+		System.out.println("expected : "+expectedDropdownOptions);
+		System.out.println("actual : "+homepage.youtubePopUp());
+		
 		assertThat("dropdown did not displayed correctly",
 				expectedDropdownOptions.containsAll(homepage.youtubePopUp()));
 	}
