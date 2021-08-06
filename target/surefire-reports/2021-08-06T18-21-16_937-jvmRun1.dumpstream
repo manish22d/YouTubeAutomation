@@ -1,0 +1,117 @@
+# Created at 2021-08-06T18:21:52.933
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2021-08-06T18:22:05.237
+Unexpected IOException with stream: under catch
+
+
+# Created at 2021-08-06T18:22:10.284
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:10.327
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:10.334
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:10.361
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:10.376
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //ytd-video-renderer//a[@id='video-title']
+
+
+# Created at 2021-08-06T18:22:10.400
+Unexpected IOException with stream: Found Element By : By.xpath: //ytd-video-renderer//a[@id='video-title']
+
+
+# Created at 2021-08-06T18:22:11.042
+Unexpected IOException with stream: number of search results are : 40
+
+
+# Created at 2021-08-06T18:22:11.042
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:11.066
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:11.082
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:11.098
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:11.114
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //ytd-item-section-renderer/div[@id='contents']/ytd-message-renderer/yt-formatted-string[@id='message']
+
+
+# Created at 2021-08-06T18:22:26.155
+Unexpected IOException with stream: under catch
+
+
+# Created at 2021-08-06T18:22:31.182
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:31.212
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:31.228
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:31.259
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:31.275
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //ytd-video-renderer//a[@id='video-title']
+
+
+# Created at 2021-08-06T18:22:31.306
+Unexpected IOException with stream: Found Element By : By.xpath: //ytd-video-renderer//a[@id='video-title']
+
+
+# Created at 2021-08-06T18:22:32.133
+Unexpected IOException with stream: number of search results are : 40
+
+
+# Created at 2021-08-06T18:22:32.133
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:32.164
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:32.180
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:32.211
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@id='start']//a[@id='logo']/div/yt-icon[@id='logo-icon']
+
+
+# Created at 2021-08-06T18:22:32.211
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //ytd-item-section-renderer/div[@id='contents']/ytd-message-renderer/yt-formatted-string[@id='message']
+
+
+# Created at 2021-08-06T18:22:47.265
+Unexpected IOException with stream: under catch
+
+
