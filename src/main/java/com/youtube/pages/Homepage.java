@@ -50,6 +50,7 @@ public class Homepage extends TestBase {
 		new WebDriverWait(driver, Constants.EXPLICIT_WAIT).until(ExpectedConditions.elementToBeClickable(search));
 		search.sendKeys(keyword);
 		searchButton.click();
+		
 		return new SearchResult();
 	}
 

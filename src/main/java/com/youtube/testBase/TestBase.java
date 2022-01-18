@@ -15,6 +15,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
+import org.openqa.selenium.support.events.WebDriverEventListener;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
@@ -36,7 +37,7 @@ public class TestBase {
 	public static EventFiringWebDriver e_driver;
 	public static ExtentReports extent;
 	public static ExtentTest extentTest;
-	public static WebEventListener eventListener;
+	public static WebDriverEventListener eventListener;
 	public static Logger log;
 
 	public TestBase() {
